@@ -1,0 +1,1 @@
+﻿positionForPages[32]={page:32,positions:[{word:"ISBN",left:0.036261,top:0.904389,width:0.036882,height:0.019635},{word:"978-83-65291-11-0",left:0.082197,top:0.902657,width:0.146764,height:0.019635},{word:"9788365",left:0.032832,top:0.964044,width:0.094342,height:0.019635},{word:"291110",left:0.142577,top:0.964044,width:0.077860,height:0.019635}]};
