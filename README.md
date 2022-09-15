@@ -24,7 +24,7 @@ Wybrane odpowiedzi uczniów z DPM-2022 na pytanie "Co oznacza i czym jest dla Ci
 
 ---
 
-![dpm02.png](dpm03.png)
+![dpm02.png](dpm02.png)
 
 ---
 
